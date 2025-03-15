@@ -5,7 +5,7 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sngrstudio/astro-base-template)
 
 ```sh
-bunx create astro@latest -- --template sngrstudio/astro-base-template
+bun create astro@latest -- --template sngrstudio/astro-base-template
 ```
 
 _(or use npm, pnpm, yarn, whatever you like. I am using Bun.)_
