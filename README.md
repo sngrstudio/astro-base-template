@@ -54,7 +54,7 @@ All commands are run from the root of the project, from a terminal:
 
 ## Batteries included:
 
-- A `.devcontainer` custom configuration to use either in [Github Codespaces](https://github.com/features/codespaces), [Gitpod Flex](https://www.gitpod.io/docs/flex/introduction/overview), or [run locally](https://containers.dev) using Docker (make sure Docker is installed first).
+- A `.devcontainer` custom configuration to use either in [GitHub Codespaces](https://github.com/features/codespaces), [Gitpod Flex](https://www.gitpod.io/docs/flex/introduction/overview), or [run locally](https://containers.dev) using Docker (make sure Docker is installed first).
 - a Gitpod Flex automations config _(feel free to delete it if you don't need it)_.
 - a Renovate config file at `renovate.json`.
 - Prettier, (will be configured automatically if you're using Dev Container)
