@@ -12,12 +12,12 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "5.16.10"
+    "astro": "5.16.14"
   },
   "devDependencies": {
     "@astrojs/check": "0.9.6",
     "concurrently": "9.2.1",
-    "prettier": "3.8.0",
+    "prettier": "3.8.1",
     "prettier-config-standard": "7.0.0",
     "prettier-plugin-astro": "0.14.1",
     "typescript": "5.9.3"
