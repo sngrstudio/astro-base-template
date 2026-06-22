@@ -16,8 +16,8 @@
   },
   "devDependencies": {
     "@astrojs/check": "0.9.9",
-    "concurrently": "9.2.1",
-    "prettier": "3.8.3",
+    "concurrently": "9.2.3",
+    "prettier": "3.8.4",
     "prettier-config-standard": "7.0.0",
     "prettier-plugin-astro": "0.14.1",
     "typescript": "5.9.3"
