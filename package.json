@@ -15,7 +15,7 @@
     "astro": "5.18.2"
   },
   "devDependencies": {
-    "@astrojs/check": "0.9.10",
+    "@astrojs/check": "0.9.12",
     "concurrently": "9.2.5",
     "prettier": "3.9.10",
     "prettier-config-standard": "7.0.0",
